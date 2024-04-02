@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atul Singh</h1>
-<h3 align="center">A passionate software tester</h3>
+<h3 align="center">A passionate software teste with good automation testing skillsr</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulsingh9936&label=Profile%20views&color=0e75b6&style=flat" alt="atulsingh9936" /> </p>
 

@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as software tester at lcx [LCX](lcx.com)
 
-- 🌱 I’m working on API, manual and Performance testing **Postman, jmeter, manual testing**
+- 🌱 I’m working on API, manual and Performance testing, Automtion Testing **Postman, jmeter, manual testing**
 
 - 👯 I’m working on web and mobile to ensure our website lcx.com and app is bug free , working smoothly. **lcx(web)**
 

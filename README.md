@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulsingh9936" alt="atulsingh9936" /></a> </p>
 
-- 🔭 I’m currently working as software tester at lcx [LCX](lcx.com)
+- 🔭 I’m currently working as software tester at  [LCX](lcx.com)
 
 - 🌱 I’m working on API, manual and Performance testing, Automtion Testing **Postman, jmeter, manual testing**
 

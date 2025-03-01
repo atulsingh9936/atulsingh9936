@@ -16,6 +16,7 @@ Welcome to my GitHub! I'm a dedicated software tester with a strong focus on ens
 - 🤝  Passionate about debugging, optimizing, and delivering bug-free applications for a smooth user experience.
   
  🌟 My Testing Journey:
+ 
 🚀 Automating APIs & UI to boost efficiency.
 
 ⚡ Ensuring scalability & performance with rigorous testing.

@@ -1,17 +1,26 @@
 <h1 align="center">Hi 👋, I'm Atul Singh</h1>
-<h3 align="center">A passionate software tester with good automation testing skills</h3>
+<h3 align="center"> Passionate Software Tester | Automation Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulsingh9936&label=Profile%20views&color=0e75b6&style=flat" alt="atulsingh9936" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulsingh9936" alt="atulsingh9936" /></a> </p>
 
-- 🔭 I’m currently working as software tester at  [LCX](lcx.com)
+Welcome to my GitHub! I'm a dedicated software tester with a strong focus on ensuring quality through manual, automation, and performance testing. With expertise in tools like Postman, JMeter, Selenium, and Rest Assured, I thrive on optimizing testing processes and ensuring seamless user experiences.
 
-- 🌱 I’m working on API, manual and Performance testing, Automation Testing ,Postman, jmeter, manual testing
+- 🔭 Software Tester at LCX Technologies, ensuring top-notch quality for web and mobile applications
 
-- 👯 I’m working on web and mobile to ensure our website lcx.com and app is bug free , working smoothly. **lcx(web)**
+- 🌱 Skilled in API Testing (Postman, Rest Assured) and Performance Testing (JMeter).
 
-- 🤝  API testing with rest assured and selenium advance concept with framework development.
+- 👯 Expertise in Manual & Automation Testing, including advanced Selenium concepts and framework development.
+
+- 🤝  Passionate about debugging, optimizing, and delivering bug-free applications for a smooth user experience.
+  
+ 🌟 My Testing Journey:
+🚀 Automating APIs & UI to boost efficiency.
+⚡ Ensuring scalability & performance with rigorous testing.
+🛠️ Building robust test frameworks to streamline the QA process.
+🔍 Identifying critical bugs & improving system reliability.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/atulsingh9936/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atulsingh9936/" height="30" width="40" /></a>
